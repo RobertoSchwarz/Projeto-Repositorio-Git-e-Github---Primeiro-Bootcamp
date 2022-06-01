@@ -1,0 +1,36 @@
+## Projeto Repositório Git e Github - Meu 1° Bootcamp
+
+### Etapas seguidas para atingir o objetivo:
+
+#### Aplicativos utilizados nesta tarefa
+
+1. #####  Visual Studio Code
+2. ######  Github Desktop
+3. ###### Git
+4. ###### Editor Typor (Sintaxe Markdown)
+
+* #### Roteiro do processo
+
+  1. Abrir o Github Desktop
+     * Ir em File
+       * New Repository
+         * Name (Nome do seu arquivo que vai ser criado) - "Projeto Repositorio Git e Github - Primeiro Bootcamp.md"
+         * Description (descrição deste arquivo)
+         * Local path (Onde ficará no seu pc) - "Este computado/Documentos/Meu projetos"
+         * Marcar o README
+         * License (marcar Mit License)
+         * Clicar em Create repository
+         * No mesmo Github Desktop clicar em "Publish repository"
+         * Desmarcar a caixa "Keep this code private"
+
+  2. Verificar se a pasta foi criada no pc
+     * Olhando diretamente no gerenciador de arquivos do pc ou,
+     * No próprio Github desktop, abrindo diretamente o Visual Studio code
+
+     			3. Agora, pode-se "trabalhar" na pasta criada
+     			4. Ao fazer qualquer alteração nesta pasta, deveremos realizar o seguinte procedimento	dentro do Github desktop	
+           * Clicar em "commit to main" para atualizar o arquivo de maneira que o Github fique igual ao pc.
+           * Fazer breve descrição da alteração realizada ao dar o "commit to main"
+           * Este item 4 se repete todas as veze em que houver alterações 		
+           *  Entrega do projeto 
+
